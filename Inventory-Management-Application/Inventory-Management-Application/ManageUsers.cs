@@ -19,6 +19,7 @@ namespace Inventory_Management_Application
             UserGV.CellClick += UserGV_CellClick;
 
         }
+        SqlConnection connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\maher\OneDrive\Documents\InventoryDB.mdf;Integrated Security=True;Connect Timeout=30");
         //select user by click on the GV cells
         private void UserGV_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -30,7 +31,6 @@ namespace Inventory_Management_Application
             MessageBox.Show("user selected");
         }
 
-        SqlConnection connection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\maher\OneDrive\Documents\InventoryDB.mdf;Integrated Security=True;Connect Timeout=30");
         //populate GV with users
         void PopulateGraph()
         {
@@ -54,11 +54,7 @@ namespace Inventory_Management_Application
         {
 
         }
-        //exit button TODO: change to icon
-        private void label3_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
+        
         //add user after filling infos
         private void button1_Click(object sender, EventArgs e)
         {
@@ -122,6 +118,11 @@ namespace Inventory_Management_Application
             {
 
             }
+        }
+        //exit button TODO: change to icon
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
