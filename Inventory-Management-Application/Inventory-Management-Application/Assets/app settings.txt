@@ -1,0 +1,5 @@
+-Primary Color (Buttons, Highlights): Teal (#008080) - This is a versatile color that brings a sense of calm and clarity, perfect for key interface elements.
+-Secondary Color (Secondary Buttons, Links): Coral (#FF7F50) - This warm tone provides a nice contrast to the teal and is excellent for secondary actions and highlights.
+-Background Color: Off-White (#F8F8F8) - A light, neutral background will keep the interface bright and make other colors pop without overwhelming the user.
+-Text Color: Dark Slate Gray (#2F4F4F) - Provides excellent readability on light backgrounds and is softer than black, which helps reduce eye strain.
+-Accent Color (Alerts, Warnings): Sandy Brown (#F4A460) - This is useful for drawing attention to notifications or important statuses within the application.
