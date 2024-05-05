@@ -45,4 +45,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
+Special thanks to [FreePick](https://www.flaticon.com/free-icons/close) for the icons.
+
 Special thanks to [MyCodeSpace](https://www.youtube.com/channel/UC3WdW3wTnFwkJ4aThmUrNAQ) for the tutorial on which this project is based.
