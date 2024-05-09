@@ -13,6 +13,8 @@ This repository contains an inventory management system application developed us
 - **Reports**: Generate comprehensive reports on inventory status, sales, and other relevant metrics.
 - **Customization**: Configure settings and preferences according to business needs.
 
+<img align="center" alt="Java" border-radius="55px" style="border-radius:2%"  src="Inventory-Management-Application\Inventory-Management-Application\Assets\Screens\ManagerUsers.jpg"/>
+
 ## Getting Started
 
 To get started with the application, follow these steps:
