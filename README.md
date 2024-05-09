@@ -23,9 +23,7 @@ To get started with the application, follow these steps:
 
 3. **Database Setup**: Configure the database connection string in the `appsettings.json` file. Run database migrations to create the database schema:
 
-4. **Run the Application**: Start the application using the following command:
-
-5. **Access the Application**: Open a web browser and navigate to `http://localhost:5000` to access the application.
+4. **Run the Application**: Start the application using Visual Studio
 
 ## Technologies Used
 
